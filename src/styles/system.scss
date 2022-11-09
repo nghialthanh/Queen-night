@@ -1,0 +1,13 @@
+body {
+    overflow: hidden;
+    margin: 0;
+    .App {
+        position: relative;
+        width: 100vw;
+        height: 100vh;
+        background-color: rgba(251, 137, 137, 0.5);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
