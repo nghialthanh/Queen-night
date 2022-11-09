@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Queen-night/static/css/main.e3905b32.css",
+    "main.js": "/Queen-night/static/js/main.89fcc50a.js",
+    "static/media/q3.jpg": "/Queen-night/static/media/q3.c29736d762f408b8ffc8.jpg",
+    "static/media/q4.jpg": "/Queen-night/static/media/q4.22fea476d86b69b2c946.jpg",
+    "static/media/q1.jpg": "/Queen-night/static/media/q1.729b5b4c17e1d25e3e81.jpg",
+    "static/media/bg.jpg": "/Queen-night/static/media/bg.ef010d741f09cb31d70f.jpg",
+    "static/media/q2.jpg": "/Queen-night/static/media/q2.4fbd433e64766da48d01.jpg",
+    "index.html": "/Queen-night/index.html",
+    "main.e3905b32.css.map": "/Queen-night/static/css/main.e3905b32.css.map",
+    "main.89fcc50a.js.map": "/Queen-night/static/js/main.89fcc50a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3905b32.css",
+    "static/js/main.89fcc50a.js"
+  ]
+}
