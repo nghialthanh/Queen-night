@@ -246,3 +246,42 @@
         animation: zoomOut1 1.5s 1 both;
     }
 }
+
+@media screen and (max-width: 550px) {
+    .__img_1 {
+        right: 5%;
+        top: 8%;
+        img {
+            width: 140px;
+            height: 140px;
+        }
+    }
+    .__img_2 {
+        left: 7%;
+        top: 5%;
+        img {
+            width: 150px;
+            height: 150px;
+        }
+    }
+    .__img_3 {
+        left: 7%;
+        top: 57%;
+        img {
+            width: 170px;
+            height: 110px;
+        }
+    }
+
+    .__img_4 {
+        right: 7%;
+        top: 60%;
+        img {
+            width: 150px;
+            height: 130px;
+        }
+    }
+    .__love_you_text {
+        bottom: 8%;
+    }
+}

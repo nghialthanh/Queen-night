@@ -2,3 +2,10 @@
     --width-lettle: 550px;
     --height-lettle: 320px;
 }
+
+@media screen and (max-width: 550px) {
+    :root {
+        --width-lettle: 330px;
+        --height-lettle: 200px;
+    }
+}

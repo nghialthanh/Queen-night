@@ -72,6 +72,11 @@
                     right: 0.5rem;
                     color: rgb(251, 88, 88);
                 }
+                @media screen and (max-width: 550px) {
+                    .__sign {
+                        font-size: 0.85rem;
+                    }
+                }
             }
             button {
                 position: relative;

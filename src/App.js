@@ -15,6 +15,12 @@ function App() {
                     _open={_open}
                     _setMore={_setMore}
                 />
+                {!_open && (
+                    <div className="__arrow_button">
+                        <span>Press Heart</span>
+                        <img alt="arrow" src={require("./img/arrow.png")}></img>
+                    </div>
+                )}
             </div>
             {_more && <ImageHeart />}
         </div>
